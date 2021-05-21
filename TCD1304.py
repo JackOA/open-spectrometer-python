@@ -24,7 +24,7 @@ import numpy as np
 
 '''
 '''
-HALLO
+HALLO. Wie geht es heute so?
 '''
 
 
